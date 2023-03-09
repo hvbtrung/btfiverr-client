@@ -61,7 +61,7 @@ const CheckoutForm = () => {
       confirmParams: {
         // Make sure to change this to your payment completion page
         // return_url: "http://localhost:5173/success",
-        return_url: "https://btfiverr-client-jfxuptwg2-hvbtrung.vercel.app/success",
+        return_url: "https://btfiverr-client.vercel.app/success",
       },
     });
 
